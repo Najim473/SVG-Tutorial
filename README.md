@@ -5,6 +5,7 @@ SVG PATH COMMANDS:
 2. Cubic bezier curves - (C,S);
    C is used for lower curve & S is used for upper curve
 3. Quadratic bezier curves - (Q,T);
+   T can't do anything without Q
 4. Arcs (A);
 
 In path d means draw

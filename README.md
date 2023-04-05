@@ -7,6 +7,14 @@ SVG PATH COMMANDS:
 3. Quadratic bezier curves - (Q,T);
    T can't do anything without Q
 4. Arcs (A);
+   Example (A30,20 0 0 1)
+   There : 30 is X axis and 20 is Y axis ...
+   There are there parameters :
+   0 is first parameter it's X-axis-rotation
+   0 is second parameter it's large-arc-flag
+   1 is third parameter it's sweep flag
+
+---
 
 In path d means draw
 <path d="M20,40 L80,40" stroke="blue"></path>

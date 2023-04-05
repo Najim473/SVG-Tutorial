@@ -3,6 +3,7 @@ SVG PATH COMMANDS:
 1. Line commands - (L,H,V,Z);
    L is length, H is Horezontal line, V is vertical line and z is End line or close path command
 2. Cubic bezier curves - (C,S);
+   C is used for lower curve & S is used for upper curve
 3. Quadratic bezier curves - (Q,T);
 4. Arcs (A);
 
